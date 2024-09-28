@@ -6,15 +6,25 @@ permalink: /about/
  
 --- 
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# 👋 Hi there,
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+- I'm Adarsh
+- I'm a software engineer, passive investor and intellectual reader.
+- This project is an attempt to document my journey.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,kotlin,spring,aws,js,ts,nodejs,react&theme=light"  alt="Java, Kotlin, Spring, AWS, Javascript, Typescript, Node.js, React"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kafka,redis,graphql,postgres,mysql,mongodb,docker,kubernetes,githubactions&theme=light"  alt="Kafka, Redis, GraphQL, PostgreSQL, MySQL, MongoDB, Docker, Kubernetes, GitHub Actions"/>
+  </a>
+</p>
 
+![trophy](https://github-profile-trophy.vercel.app/?username=xadarshkumar&title=-Issues,-Stars&column=-1&theme=gruvbox)
 
-[jekyll-organization]: https://github.com/jekyll
+## Wanna have a chat?
+
+Please feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/adarsh0714/) or [Telegram](https://t.me/one4adarsh)

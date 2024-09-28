@@ -18,16 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Bits, Bucks n Bonds
+title: Adarsh's Archive
 author:
   name: Adarsh Kumar
   email: "adarsh0714@gmail.com"
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >-
-  Sharing insights from my active software engineering projects, investment strategies for 
-  financial growth, and valuable lessons from professional connections and influential writings.
-baseurl: "/github-pages-blog-template" # the subpath of your site, e.g. /blog
+  Adarsh's Archive is a journal about my learning, experience, and progress in the ever-evolving world 
+  of software engineering. It captures work logs, technical notes and personal reflections from my journey.
+baseurl: "/archive" # the subpath of your site, e.g. /blog
 url: "https://xadarshkumar.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
@@ -40,7 +40,7 @@ plugins:
 
 remote_theme: jekyll/minima
 
-google_analytics: G-TVFZSZGJ5Z
+google_analytics:
 
 # Theme-specific settings
 
@@ -61,7 +61,7 @@ minima:
   # Generate social links in footer.
   social_links:
     - { platform: github,  user_url: "https://github.com/xadarshkumar" }
-    - { platform: linkedin,  user_url: "https://www.linkedin.com/in/xadarshkumar/" }
+    - { platform: linkedin,  user_url: "https://www.linkedin.com/in/adarsh0714/" }
     - { platform: x, user_url: "https://x.com/xadarshkumar" }
     # - { platform: youtube, user_url: "x" }
 
